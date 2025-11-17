@@ -1,0 +1,1 @@
+This library includes the spectra from ChapterM of splib07 USGS library, convolved to AVIRIS-1997 spectra
