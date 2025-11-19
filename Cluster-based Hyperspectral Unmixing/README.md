@@ -1,5 +1,5 @@
 # Cluster-based Hyperspectral Unmixing
-In this folder the code developed as part of my university thesis is reported. The aim of this work is to accurately estimate the physical composition of a given terrain, typically the soil of celestial bodies, and the percentage presence of each material contained within it. 
+In this folder the theme of Hyperspectral Unmixing is explored. The aim of this work is to accurately estimate the physical composition of a given terrain, typically the soil of celestial bodies, and the percentage presence of each material contained within it. 
 The folder is divided into two subfolders that contain the MATLAB code, used for hyperspectral unmixing, and the R code, used to explore the possibilities related to clustering.
 
 ## Matlab code
