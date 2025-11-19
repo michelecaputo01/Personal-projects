@@ -8,8 +8,6 @@ The folder contains the existing hyperspectral unmixing functions along with som
 
 ## R code
 In this folder the problem of "spatial" clustering is explored. The distinguishing feature of these algorithms is that they perform clustering of spatial functional data taking into account both the non-spatial variables (in this case, a function of the reflectance) and the coordinates of the data points. The algorithms explored are: 
-- Bagging-Voronoi classifier (_P. Secchi, S. Vantini, and V. Vitelli. Bagging voronoi classifiers for clustering spatial
-functional data. International Journal of Applied Earth Observation and Geoinformation, 22:53–64, 2013_);
-- Classic K-means clustering using Penalized Spatial Distance (_B. Zhang, W. J. Yin, M. Xie, and J. Dong. Geo-spatial clustering with non-spatial
-attributes and geographic non-overlapping constraint: A penalized spatial distance measure. In Advances in Knowledge Discovery and Data Mining, pages 1072–1079, Berlin, Heidelberg, 2007. Springer Berlin Heidelberg_);
+- Bagging-Voronoi classifier (_P. Secchi, S. Vantini, and V. Vitelli. Bagging voronoi classifiers for clustering spatial functional data. International Journal of Applied Earth Observation and Geoinformation, 22:53–64, 2013_);
+- Classic K-means clustering using Penalized Spatial Distance (_B. Zhang, W. J. Yin, M. Xie, and J. Dong. Geo-spatial clustering with non-spatial attributes and geographic non-overlapping constraint: A penalized spatial distance measure. In Advances in Knowledge Discovery and Data Mining, pages 1072–1079, Berlin, Heidelberg, 2007. Springer Berlin Heidelberg_);
 - Classic K-means clustering, where the distance is computed as combination of functional and spatial attributes).
